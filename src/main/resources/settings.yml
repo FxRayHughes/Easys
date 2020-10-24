@@ -1,0 +1,11 @@
+Title: '§7§l[§f§l Easy §7§l] §f'
+Message:
+  NoMoney: "你的游戏币不足"
+  YesBuy: "&e成功购买了{Amount}个{ItemName}花费了{Money} %player_name% 支持papi"
+  NoItems: "你并没有{Amount}个{ItemName}"
+  YesSell: "你成功出售了{Amount}个{ItemName},获得了{Money}元 现在你有 [papi变量_玩家余额 我忘了咋写] 个游戏币"
+  Double: "请输入一个整数"
+WorldAttribute:
+  worldname:
+    - "傻逼下载: 10-20"
+    - "2B下载: 10%"
